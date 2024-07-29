@@ -6,10 +6,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Before** reporting an issue, make sure to read the [documentation](https://github.com/LazyVim/LazyVim)
-        and search [existing issues](https://github.com/LazyVim/LazyVim/issues).
+        **Before** reporting an issue, make sure to read the [documentation](https://github.com/NewbieAndy/LazyVim)
+        and search [existing issues](https://github.com/NewbieAndy/LazyVim/issues).
 
-        Usage questions such as ***"How do I...?"*** belong in [Discussions](https://github.com/LazyVim/LazyVim/discussions) and will be closed.
+        Usage questions such as ***"How do I...?"*** belong in [Discussions](https://github.com/NewbieAndy/LazyVim/discussions) and will be closed.
   - type: checkboxes
     attributes:
       label: Did you check docs and existing issues?
@@ -67,7 +67,7 @@ body:
 
         require("lazy.minit").repro({
           spec = {
-            { "LazyVim/LazyVim", import = "lazyvim.plugins" },
+            { "NewbieAndy/LazyVim", import = "lazyvim.plugins" },
             -- add any other plugins here
           },
         })

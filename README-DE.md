@@ -13,23 +13,23 @@
 </h4>
 
 <div align="center"><p>
-    <a href="https://github.com/LazyVim/LazyVim/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
+    <a href="https://github.com/NewbieAndy/LazyVim/releases/latest">
+      <img alt="Latest release" src="https://img.shields.io/github/v/release/NewbieAndy/LazyVim?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&include_prerelease&sort=semver" />
     </a>
-    <a href="https://github.com/LazyVim/LazyVim/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+    <a href="https://github.com/NewbieAndy/LazyVim/pulse">
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/NewbieAndy/LazyVim?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
     </a>
-    <a href="https://github.com/LazyVim/LazyVim/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
+    <a href="https://github.com/NewbieAndy/LazyVim/blob/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/NewbieAndy/LazyVim?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/LazyVim/LazyVim/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    <a href="https://github.com/NewbieAndy/LazyVim/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/NewbieAndy/LazyVim?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/LazyVim/LazyVim/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/LazyVim/LazyVim?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+    <a href="https://github.com/NewbieAndy/LazyVim/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/NewbieAndy/LazyVim?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/LazyVim/LazyVim">
-      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/LazyVim/LazyVim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+    <a href="https://github.com/NewbieAndy/LazyVim">
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/NewbieAndy/LazyVim?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=folke">
       <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/folke?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
@@ -113,7 +113,7 @@ docker run -w /root -it --rm alpine:edge sh -uelic '
 Die Dateien unter `config` werden automatisch und zur richtigen Zeit geladen,
 sodass ein manuelles `require` nicht nötig ist.
 **LazyVim** bringt Konfigurationsdatein mit, die **_vor_** Ihren eigenen geladen werden -
-siehe [hier](https://github.com/LazyVim/LazyVim/tree/main/lua/lazyvim/config)
+siehe [hier](https://github.com/NewbieAndy/LazyVim/tree/main/lua/lazyvim/config)
 Sie können eigene Plugins unter `lua/plugins/` hinzufügen. Alle Dateien innerhalb
 dieses Ordners werden automatisch mit [lazy.nvim](https://github.com/folke/lazy.nvim)
 geladen.

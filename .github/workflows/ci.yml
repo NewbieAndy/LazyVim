@@ -11,4 +11,4 @@ jobs:
     secrets: inherit
     with:
       plugin: LazyVim
-      repo: LazyVim/LazyVim
+      repo: NewbieAndy/LazyVim
