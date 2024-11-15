@@ -45,7 +45,7 @@ end
 
 return {
   {
-    "NewbieAndy/NVimConfig",
+    "NewbieAndy/LazyVim",
     config = function(_, opts)
       opts = opts or {}
       -- disable the colorscheme
