@@ -22,7 +22,7 @@ end
 
 return {
   { "folke/lazy.nvim", version = "*" },
-  { "NewbieAndy/NVimConfig", priority = 10000, lazy = false, opts = {}, cond = true, version = "*" },
+  { "NewbieAndy/LazyVim", priority = 10000, lazy = false, opts = {}, cond = true, version = "*" },
   {
     "folke/snacks.nvim",
     priority = 1000,
